@@ -1,0 +1,7 @@
+# PyTorch 설치 가이드
+
+## 1. 가상 환경 활성화 (Windows)
+myenv\Scripts\activate
+
+## 2. PyTorch 설치
+pip install torch torchvision torchaudio
